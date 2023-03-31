@@ -58,6 +58,8 @@
                                         <div class="d-flex justify-content-end pt-3">
                                         <input id="loginButton" name="login" class="btn btn-dark" type="submit" value="Login" onclick="validateEmailPassword()" />
                                         </div>
+                                        <p class="myLable"> Don't have an account? <a href="register-admin.php" class="link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Register here</a></p>
+
                                     </div> 
                                 </form>
                             </div>
